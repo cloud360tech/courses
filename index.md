@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Cloud360.Tech - SAP on Azure Master Class
 
 You can use the [editor on GitHub](https://github.com/cloud360tech/courses/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
